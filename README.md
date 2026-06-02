@@ -8,7 +8,7 @@ This project is the official source code repository of [Muldot Learning Centre](
 
 ## 📚 Full Subject Coverage
 
-We bring together the best home tutors in Singapore, covering all stages from preschool, primary school, secondary school to junior college (JC), IB, and IGCSE. Key teaching subjects include: **Chinese**, **English**, **Mathematics**, **Science**, **Physics**, **Chemistry**, and **Economics**.
+We bring together the best home tutors in Singapore, covering all stages from preschool, primary school, secondary school to junior college (JC), IB, and IGCSE. Key teaching subjects include: **Chinese**, **English**, **Mathematics/maths**, **Science**, **Physics**, **Chemistry**, and **Economics**.
 
 ## 🚀 Core Service Features
 
